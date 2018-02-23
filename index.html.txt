@@ -4,8 +4,8 @@
 </head>
 <meta charset = "UTF-8"/>
 <body>
-<p><h1>Esté é um cabeçalho</h1></p>
+<p><h1>Este é um cabeçalho</h1></p>
 <p><h2>Este é um paragrafo</h2></p>
-<p><h3></h3></p>
+<p><h3>Este é o segundo paragrafo</h3></p>
 </body>
 </html>
